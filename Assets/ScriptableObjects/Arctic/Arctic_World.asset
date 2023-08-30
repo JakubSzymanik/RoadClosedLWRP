@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c69fab3b971c8e94aaed81bd989e191f, type: 3}
+  m_Name: Arctic_World
+  m_EditorClassIdentifier: 
+  ID: 2
+  Name: Arctic
+  ScoreToUnlock: 36
+  levels:
+  - {fileID: 11400000, guid: 15d55050ad6b8144aab7c3dfc4883890, type: 2}
+  - {fileID: 11400000, guid: b2c9a3b1409ab3d4db218eaa192b59f4, type: 2}
+  - {fileID: 11400000, guid: 18857f6a88bff8e4499a0a4202d7d5a6, type: 2}
+  - {fileID: 11400000, guid: db5a00c762bb13e46827f6f761635f83, type: 2}
+  - {fileID: 11400000, guid: b230e3c1ec15e2f458440addca9600ac, type: 2}
+  - {fileID: 11400000, guid: a6f439d850d1cb340a9a7b9384c7821d, type: 2}
+  - {fileID: 11400000, guid: 8788d6bcb327fe547b3eaf584d682585, type: 2}
+  - {fileID: 11400000, guid: ea7c6706f98f6ab44a8e76dfc18185d9, type: 2}
+  - {fileID: 11400000, guid: 81fe1831875282d479673c12e4473a40, type: 2}
+  - {fileID: 11400000, guid: 0f0e57ba5299b6748aebe58b18396834, type: 2}
+  - {fileID: 11400000, guid: e445fe72edf091e4990ef7b32cfa8dce, type: 2}
+  - {fileID: 11400000, guid: b682f5e8f2afdc34e97ec62896eb43c1, type: 2}

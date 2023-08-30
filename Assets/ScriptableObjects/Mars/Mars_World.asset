@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c69fab3b971c8e94aaed81bd989e191f, type: 3}
+  m_Name: Mars_World
+  m_EditorClassIdentifier: 
+  ID: 3
+  Name: Mars
+  ScoreToUnlock: 54
+  levels:
+  - {fileID: 11400000, guid: 77dd5728dc093c54faf6e119da3757e8, type: 2}
+  - {fileID: 11400000, guid: 7626d6fe97a8cb141a7f4615097b26da, type: 2}
+  - {fileID: 11400000, guid: 17daf11556e223646a79c101d1b0818c, type: 2}
+  - {fileID: 11400000, guid: bc67e2f0e53f3be4c9207db4d6aace8b, type: 2}
+  - {fileID: 11400000, guid: 218ed19090f87ea49a4af3e99d94213b, type: 2}
+  - {fileID: 11400000, guid: 186caf4775f1be446afe203c9d0c59ce, type: 2}
+  - {fileID: 11400000, guid: 460c7ef9f5b2b704ab2cddb482bb59f9, type: 2}
+  - {fileID: 11400000, guid: f1b60ead535b68848a816efcc7038cf8, type: 2}
+  - {fileID: 11400000, guid: 47b38326d8cc24b408d36afad1e20358, type: 2}
+  - {fileID: 11400000, guid: 53e9fc9464eb73541b7bf0e175fa9cbe, type: 2}
+  - {fileID: 11400000, guid: f22da59a81f84df458069ef3bb8af5ad, type: 2}
+  - {fileID: 11400000, guid: 08795f9710bb6c34ebfaf1c7e14ae7ae, type: 2}

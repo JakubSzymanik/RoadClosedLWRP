@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c69fab3b971c8e94aaed81bd989e191f, type: 3}
+  m_Name: Factory_World
+  m_EditorClassIdentifier: 
+  ID: 5
+  Name: Factory
+  ScoreToUnlock: 90
+  levels:
+  - {fileID: 11400000, guid: a40a7620f61f7d245a76a107cd461cff, type: 2}
+  - {fileID: 11400000, guid: ccd90ab409710f9489e83eba20896dbf, type: 2}
+  - {fileID: 11400000, guid: 298b045ff89467e41a96b840006f3fe6, type: 2}
+  - {fileID: 11400000, guid: 194afc4bf640cb446819861bbf16fe21, type: 2}
+  - {fileID: 11400000, guid: 21745d62edb763f42a70bf203354f6ae, type: 2}
+  - {fileID: 11400000, guid: 46aac7ebab7a68b4bbc7fb240230e7fa, type: 2}
+  - {fileID: 11400000, guid: 47f9cf7e2727cbb4aa75c8d5f753a7e9, type: 2}
+  - {fileID: 11400000, guid: 97a58fa60aa10784a90a0c57c07e4f67, type: 2}
+  - {fileID: 11400000, guid: d366de65c3ddcfe4e896cb220a378a02, type: 2}
+  - {fileID: 11400000, guid: a8932a3a16d3f4c4290bbc665c3f476f, type: 2}
+  - {fileID: 11400000, guid: c9f1adee288a67a48946e74f340b4511, type: 2}
+  - {fileID: 11400000, guid: db9962d2ca530344eb96eea65058269e, type: 2}

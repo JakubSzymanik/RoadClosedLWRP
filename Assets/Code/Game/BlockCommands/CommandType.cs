@@ -1,0 +1,1 @@
+﻿public enum CommandType { Move, Rotate, Stop, Teleport, Destroy }
